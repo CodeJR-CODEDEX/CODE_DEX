@@ -1,3 +1,7 @@
+---
+icon: house
+---
+
 # Termos e Práticas Internas da Code
 
 * **LiveCode:** Sessão prática de programação ao vivo em que um membro da equipe demonstra a implementação de uma funcionalidade, explicando raciocínio e decisões técnicas durante o desenvolvimento.
