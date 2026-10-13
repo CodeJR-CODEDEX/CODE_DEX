@@ -1,3 +1,7 @@
+---
+icon: js
+---
+
 # JavaScript
 
 *

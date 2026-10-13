@@ -1,3 +1,7 @@
+---
+icon: github
+---
+
 # Controle de Versão (Git e GitHub)
 
 * **Repositório (Repository):** Espaço centralizado onde o código do projeto é armazenado e versionado.

@@ -1,5 +1,6 @@
 ---
 description: Glossário de termos técnicos utilizados na computação e na Code Júnior.
+icon: list-tree
 ---
 
 # CodeDex

@@ -1,3 +1,7 @@
+---
+icon: figma
+---
+
 # Design e Prototipagem (Figma)
 
 * **Prototipagem de Alta Fidelidade:** Representação visual interativa muito próxima do produto final, incluindo cores, tipografia, microinterações e navegação entre telas.

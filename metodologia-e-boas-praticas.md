@@ -1,3 +1,7 @@
+---
+icon: thumbs-up
+---
+
 # Metodologia e Boas Práticas
 
 * **Depuração (Debugging):** Processo de identificar, analisar e corrigir erros (bugs) ou comportamentos inesperados no código.

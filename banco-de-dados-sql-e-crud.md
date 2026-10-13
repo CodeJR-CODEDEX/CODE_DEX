@@ -1,3 +1,7 @@
+---
+icon: database
+---
+
 # Banco de Dados, SQL e CRUD
 
 * **Arquitetura MVC (Model-View-Controller):** Padrão que divide a aplicação em três camadas:

@@ -1,3 +1,7 @@
+---
+icon: code
+---
+
 # Básicos da Programação
 
 * **Front-End:** Parte visual e interativa de uma aplicação web ou mobile com a qual o usuário interage diretamente.
