@@ -10,3 +10,4 @@
 * [Banco de Dados, SQL e CRUD](banco-de-dados-sql-e-crud.md)
 * [Metodologia e Boas Práticas](metodologia-e-boas-praticas.md)
 * [Termos e Práticas Internas da Code](termos-e-praticas-internas-da-code.md)
+* [Dúvidas Frequentes](duvidas-frequentes.md)
